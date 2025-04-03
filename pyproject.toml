@@ -114,4 +114,5 @@ dependencies = [
     "openai>=1.68.2",
 ]
 
-# ... (restliche Abschnitte bleiben **unverändert**, da dort keine Python-Version definiert ist)
+[tool.poetry]
+package-mode = false
