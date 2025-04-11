@@ -1,0 +1,18 @@
+# --- Grundlegende Langflow-Abhängigkeiten ---
+langflow
+
+# --- NVIDIA-Komponenten-Support ---
+langchain-nvidia-ai-endpoints
+
+# --- Optional: Für eigene LLM-Komponenten oder Datenverarbeitung ---
+openai
+pandas
+tiktoken
+
+# --- Optional: Für Debugging & Logging ---
+python-dotenv
+loguru
+
+# --- Optional: Für Webrequests, falls du APIs integrierst ---
+httpx
+requests
