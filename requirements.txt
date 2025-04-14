@@ -4,15 +4,49 @@ langflow
 # --- NVIDIA-Komponenten-Support ---
 langchain-nvidia-ai-endpoints
 
-# --- Optional: Für eigene LLM-Komponenten oder Datenverarbeitung ---
-openai
-pandas
-tiktoken
-
-# --- Optional: Für Debugging & Logging ---
-python-dotenv
-loguru
-
-# --- Optional: Für Webrequests, falls du APIs integrierst ---
+aiohttp
+astra-db-python
+beautifulsoup4
+cassio
+chromadb
+faiss-cpu
+google-api-python-client
+gspread
 httpx
+jinja2
+jsonlines
+keyring
+langchain
+langchain-community
+langchain-datastax
+langchain-openai
+langchainhub
+lxml
+numpy
+oauthlib
+openai
+openai-whisper
+openpyxl
+pandas
+pdfplumber
+pinecone-client
+pydantic
+pydub
+PyPDF2
+python-docx
+python-dotenv
+pytesseract
+qdrant-client
 requests
+rich
+setuptools
+tabulate
+tenacity
+tiktoken
+typing-extensions
+tqdm
+weaviate-client
+wheel
+xlrd
+langchain-openai
+
